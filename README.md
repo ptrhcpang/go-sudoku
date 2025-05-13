@@ -6,7 +6,7 @@ This is a simple Sudoku solver written in Go
 primarily to help me get acclimatised to the 
 language back in July of 2024.
 
-## what it does
+### what it does
 
 It does the following:
 
