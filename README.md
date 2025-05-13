@@ -6,7 +6,7 @@ This is a simple Sudoku solver written in Go
 primarily to help me get acclimatised to the 
 language back in July of 2024.
 
-### what it does
+### how to use it 
 
 It does the following:
 
@@ -30,6 +30,8 @@ only the first nine will be used.
 If there are fewer than nine inputs, the uninitiated 
 rows are implicitly understood as being populated 
 by noughts only.
+
+### what it does
 
 The program outputs the unsolved board, and, 
 if the problem is neither underdetermined nor 
