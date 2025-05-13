@@ -10,7 +10,7 @@ language back in July of 2024.
 
 It does the following:
 
-On running the program, it takes 9 inputs.
+On running, the program accepts 9 inputs.
 
 Each input represents a row of a Sudoku board,
 starting from the top. Each input consists of 
